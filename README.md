@@ -1,2 +1,4 @@
 # hello-world
-Aprendendo a usar.
+Oi, tudo bem.
+
+Eu sou Icaro, estou aprendendo a usar o GitHub. :)
